@@ -3,4 +3,4 @@
 <p>Sitenize döviz, altın ve kripto para birimlerini ücretsiz olarak ekleyin.</p>
 <p>api.php içerisindeki kodlar ile web sitenize döviz, altın ve kripto para birimlerini api ile ekleyebilirsiniz.</p>
 
-Kaynak: <a href="https://www.parabirimleri.com/" rel="dofollow">parabirimleri.com</a>
+Kaynak: <a href="https://www.parabirimleri.com/">parabirimleri.com</a>
