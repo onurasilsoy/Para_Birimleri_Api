@@ -18,7 +18,7 @@ function CurlGET($URL) {
     curl_close($CH);
 	return $Result;	
 }
-$JSON = json_decode(CurlGET('https://api.genelpara.com/embed/para-birimleri.json'), true);
+$JSON = json_decode(CurlGET('https://api.parabirimleri.com/json/'), true);
 ?>
 <ul>
     <li>
